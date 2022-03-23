@@ -15,4 +15,4 @@ As a trigger to start new build we use commit to master branch
 ב http://localhost
 את עמוד הבית הבית של מכללה 
 
-from master to master
+from master2 to master

@@ -2,7 +2,6 @@
 //Dima
 //23/3/22
 //12:33   BRANCH dima_br
-//13:08   BRANCH HUB
 //========================================
 var http = require('http');
 var formidable = require('formidable');
@@ -23,7 +22,4 @@ http.createServer(function (req, res) {
         }).end();
     }
 }).listen(80);
-<<<<<<< HEAD
 //================EOF======================
-=======
->>>>>>> eacc09db92aec0968afe8b0b366f018e0e21ac9b

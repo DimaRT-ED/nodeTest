@@ -14,6 +14,3 @@ As a trigger to start new build we use commit to master branch
 נקבל "hello test"
 ב http://localhost
 את עמוד הבית הבית של מכללה 
-
-//added 12/33/22   12:33
-//added 12/33/22 13:03

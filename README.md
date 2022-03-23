@@ -16,3 +16,4 @@ As a trigger to start new build we use commit to master branch
 את עמוד הבית הבית של מכללה 
 
 //added 12/33/22   12:33
+//added 12/33/22 13:03

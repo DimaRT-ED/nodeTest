@@ -14,3 +14,5 @@ As a trigger to start new build we use commit to master branch
 נקבל "hello test"
 ב http://localhost
 את עמוד הבית הבית של מכללה 
+
+from dima_br to master
